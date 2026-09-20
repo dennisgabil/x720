@@ -63,7 +63,7 @@ export const Header: React.FC<HeaderProps> = ({
           className="relative group px-5 sm:px-6 py-2 rounded-full border border-slate-700/80 bg-slate-900/40 hover:bg-slate-800/60 hover:border-cyan-500/60 transition-all duration-300 backdrop-blur-md shadow-[0_0_15px_rgba(0,0,0,0.5)] active:scale-95"
         >
           <span className="relative z-10 font-sans text-[0.45rem] sm:text-xs tracking-[0.18em] font-medium text-slate-200 group-hover:text-white uppercase transition-colors cursor-pointer">
-            Free Trial 2 Day
+            Free Trial 3 Day
           </span>
           <div className="absolute inset-0 rounded-full bg-cyan-500/10 opacity-0 group-hover:opacity-100 transition-opacity blur-xs pointer-events-none" />
         </button>
