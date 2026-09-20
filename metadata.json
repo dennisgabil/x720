@@ -1,0 +1,6 @@
+{
+  "name": "ELLI.ai — Personal AI Assistant",
+  "description": "Futuristic 1-page webpage for ELLI.ai, the almighty personal AI assistant in your mobile 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
